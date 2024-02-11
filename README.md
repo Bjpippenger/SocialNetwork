@@ -13,7 +13,7 @@
 ${SocialNetwork}
 ## Description
 ${description}
-backend application to view an employee database with roles and departments
+social network application to add friends and request friends as well as post thoughts or comments
 ## Installation
 ${installation}
 Download git repository, ensure you have proper dependencies as followed.
